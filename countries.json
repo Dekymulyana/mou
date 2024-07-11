@@ -1,0 +1,282 @@
+[
+  {
+    "name": "Selandia Baru",
+    "Country": "New Zealand",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": -41.2865,
+    "long": 174.7762,
+    "type": "nonasean"
+  },
+  {
+    "name": "Australia",
+    "Country": "Australia",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": -25.2744,
+    "long": 133.7751,
+    "type": "nonasean"
+  },
+  {
+    "name": "China",
+    "Country": "China",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 35.8617,
+    "long": 104.1954,
+    "type": "nonasean"
+  },
+  {
+    "name": "India",
+    "Country": "India",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 20.5937,
+    "long": 78.9629,
+    "type": "nonasean"
+  },
+  {
+    "name": "Pakistan",
+    "Country": "Pakistan",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 30.3753,
+    "long": 69.3451,
+    "type": "nonasean"
+  },
+  {
+    "name": "Jepang",
+    "Country": "Japan",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 36.2048,
+    "long": 138.2529,
+    "type": "nonasean"
+  },
+  {
+    "name": "Rusia",
+    "Country": "Russia",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 61.524,
+    "long": 105.3188,
+    "type": "nonasean"
+  },
+  {
+    "name": "Uzbekistan",
+    "Country": "Uzbekistan",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 41.3775,
+    "long": 64.5853,
+    "type": "nonasean"
+  },
+  {
+    "name": "Arab Saudi",
+    "Country": "Saudi Arabia",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 23.8859,
+    "long": 45.0792,
+    "type": "nonasean"
+  },
+  {
+    "name": "Romania",
+    "Country": "Romania",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 45.9432,
+    "long": 24.9668,
+    "type": "nonasean"
+  },
+  {
+    "name": "Spanyol",
+    "Country": "Spain",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 40.4637,
+    "long": -3.7492,
+    "type": "nonasean"
+  },
+  {
+    "name": "Slowakia",
+    "Country": "Slovakia",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 48.669,
+    "long": 19.699,
+    "type": "nonasean"
+  },
+  {
+    "name": "Prancis",
+    "Country": "France",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 46.6034,
+    "long": 1.8883,
+    "type": "nonasean"
+  },
+  {
+    "name": "Maroko",
+    "Country": "Morocco",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 31.7917,
+    "long": -7.0926,
+    "type": "nonasean"
+  },
+  {
+    "name": "Jerman",
+    "Country": "Germany",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 51.1657,
+    "long": 10.4515,
+    "type": "nonasean"
+  },
+  {
+    "name": "Britania Raya",
+    "Country": "United Kingdom",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 55.3781,
+    "long": -3.436,
+    "type": "nonasean"
+  },
+  {
+    "name": "Amerika Serikat",
+    "Country": "United States",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 37.0902,
+    "long": -95.7129,
+    "type": "nonasean"
+  },
+  {
+    "name": "Kanada",
+    "Country": "Canada",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 56.1304,
+    "long": -106.3468,
+    "type": "nonasean"
+  },
+  {
+    "name": "Belgia",
+    "Country": "Belgium",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 50.5039,
+    "long": 4.4699,
+    "type": "nonasean"
+  },
+  {
+    "name": "Belanda",
+    "Country": "Netherlands",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 52.1326,
+    "long": 5.2913,
+    "type": "nonasean"
+  },
+  {
+    "name": "Korea Selatan",
+    "Country": "South Korea",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 35.9078,
+    "long": 127.7669,
+    "type": "nonasean"
+  },
+  {
+    "name": "Myanmar",
+    "Country": "Myanmar",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 21.9162,
+    "long": 95.956,
+    "type": "asean"
+  },
+  {
+    "name": "Thailand",
+    "Country": "Thailand",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 15.87,
+    "long": 100.9925,
+    "type": "asean"
+  },
+  {
+    "name": "Malaysia",
+    "Country": "Malaysia",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 4.2105,
+    "long": 101.9758,
+    "type": "asean"
+  },
+  {
+    "name": "Philippines",
+    "Country": "Philippines",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 12.8797,
+    "long": 121.774,
+    "type": "asean"
+  },
+  {
+    "name": "Cambodia",
+    "Country": "Cambodia",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 12.5657,
+    "long": 104.991,
+    "type": "asean"
+  },
+  {
+    "name": "Singapore",
+    "Country": "Singapore",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": 1.3521,
+    "long": 103.8198,
+    "type": "asean"
+  },
+  {
+    "name": "Timor-Leste",
+    "Country": "Timor-Leste",
+    "Millionaires": null,
+    "Centimillionaires": null,
+    "Billionaires": null,
+    "lat": -8.8742,
+    "long": 125.7275,
+    "type": "asean"
+  }
+]
